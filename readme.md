@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://raw.githubusercontent.com/sebastian-software/sebastian-software-brand/master/style.css">
-
 # Branding
 
 ![Sebastian Software DE](/sebastiansoftware-de.svg)
