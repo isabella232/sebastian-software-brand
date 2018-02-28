@@ -1,9 +1,13 @@
-# Branding
+# Company
 
 ![Sebastian Software DE](/sebastiansoftware-de.svg)
 ![Sebastian Software EN](/sebastiansoftware-en.svg)
 
-# Third Parties
+# Projects
+
+![Edge](/edge.svg)
+
+# Third Party
 
 ![ESLint](/thirdparty/eslint.svg)
 ![PostCSS](/thirdparty/postcss.svg)
